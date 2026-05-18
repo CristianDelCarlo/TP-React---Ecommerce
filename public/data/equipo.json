@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cristian Del Carlo",
+    "cargo": "Gerente de Producto",
+    "foto": "/image/cri.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Joaquín Del Carlo",
+    "cargo": "Desarrollador Backend",
+    "foto": "/image/joa.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Mariana Torres",
+    "cargo": "Diseñadora UX/UI",
+    "foto": "/image/mar.jpg"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Procesador AMD Ryzen 7 5700X",
+    "descripcion": "CPU de 8 núcleos y 16 hilos con frecuencia de hasta 4.6GHz.",
+    "stock": 15,
+    "precio": 189.99,
+    "imagen": "/image/1.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Memoria RAM Corsair Vengeance LPX 16GB",
+    "descripcion": "Kit de 2x8GB DDR4 a 3200MHz ideal para optimizar el rendimiento.",
+    "stock": 42,
+    "precio": 45.50,
+    "imagen": "/image/2.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Disco Duro Sólido SSD Kingston NV2 1TB",
+    "descripcion": "Almacenamiento M.2 NVMe PCIe 4.0 con velocidades de lectura de 3500MB/s.",
+    "stock": 28,
+    "precio": 62.00,
+    "imagen": "/image/3.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Tarjeta Gráfica NVIDIA RTX 4060 Ti",
+    "descripcion": "GPU de 8GB GDDR6 optimizada para juegos en 1080p y trazado de rayos.",
+    "stock": 8,
+    "precio": 399.00,
+    "imagen": "/image/4.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Fuente de Poder EVGA 600 W1",
+    "descripcion": "Fuente de alimentación de 600W con certificación 80 Plus White.",
+    "stock": 20,
+    "precio": 54.99,
+    "imagen": "/image/5.jpg"
+  }
+]

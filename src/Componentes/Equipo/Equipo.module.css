@@ -1,0 +1,19 @@
+p {
+    font-size: 1rem;
+    color: var(--text-h);
+}
+
+.contenedorTarjetas {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tarjeta {
+    width: 250px;
+
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+}

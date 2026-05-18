@@ -1,0 +1,25 @@
+form {
+
+    display: flex;
+    flex-direction: column;
+    max-width: 24rem;
+    margin: 3rem auto;
+    padding: 1.5rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    gap: 16px;
+}
+
+.imagenes {
+    display: flex;
+    flex-direction: column;
+}
+
+.botonImagenes {
+    background-color: #6445c1;
+    color: white;
+}
+
+input, textarea {
+    background-color: #a8a7ae;
+}
